@@ -12,8 +12,9 @@ We deploy a voting application utilizing two services, namely Cluster IP and Nod
 - [License](#license)
  # Installation
 set up the environment for the deployment
+```
 Installing minkube and kubectl
-
+```
 
 ## Usage
 
