@@ -11,10 +11,10 @@ We deploy a voting application utilizing two services, namely Cluster IP and Nod
 - [Usage](#usage)
 - [License](#license)
  # Installation
-set up the environment for the deployment
-```
+## set up the environment for the deployment
+
 Installing minkube and kubectl
-```
+
 
 ## Usage
 
